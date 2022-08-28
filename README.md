@@ -1,2 +1,2 @@
 # Diabetes_app
-Diabetes Prediction Web App
+Diabetes Prediction Machine Learning Web App
